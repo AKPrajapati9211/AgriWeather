@@ -1,0 +1,126 @@
+{
+  "wheat": {
+    "sowing": { "temp_min": 15, "temp_max": 22, "rain_min": 2, "rain_max": 15, "months": [10, 11] },
+    "harvesting": { "temp_min": 20, "temp_max": 27, "rain_min": 0, "rain_max": 5, "months": [3, 4] }
+  },
+  "rice": {
+    "sowing": { "temp_min": 25, "temp_max": 35, "rain_min": 50, "rain_max": 150, "months": [6, 7] },
+    "harvesting": { "temp_min": 20, "temp_max": 30, "rain_min": 0, "rain_max": 10, "months": [9, 10] }
+  },
+  "maize": {
+    "sowing": { "temp_min": 18, "temp_max": 30, "rain_min": 10, "rain_max": 40, "months": [6, 7] },
+    "harvesting": { "temp_min": 20, "temp_max": 30, "rain_min": 0, "rain_max": 10, "months": [9, 10] }
+  },
+  "sugarcane": {
+    "sowing": { "temp_min": 22, "temp_max": 35, "rain_min": 20, "rain_max": 100, "months": [2, 3] },
+    "harvesting": { "temp_min": 25, "temp_max": 38, "rain_min": 0, "rain_max": 10, "months": [12, 1] }
+  },
+  "barley": {
+    "sowing": { "temp_min": 12, "temp_max": 20, "rain_min": 3, "rain_max": 15, "months": [10, 11] },
+    "harvesting": { "temp_min": 15, "temp_max": 22, "rain_min": 0, "rain_max": 5, "months": [3, 4] }
+  },
+  "cotton": {
+    "sowing": { "temp_min": 21, "temp_max": 30, "rain_min": 10, "rain_max": 35, "months": [6, 7] },
+    "harvesting": { "temp_min": 25, "temp_max": 32, "rain_min": 0, "rain_max": 10, "months": [10, 12] }
+  },
+  "soybean": {
+    "sowing": { "temp_min": 20, "temp_max": 30, "rain_min": 20, "rain_max": 40, "months": [6, 7] },
+    "harvesting": { "temp_min": 22, "temp_max": 30, "rain_min": 0, "rain_max": 10, "months": [9, 10] }
+  },
+  "mustard": {
+    "sowing": { "temp_min": 10, "temp_max": 20, "rain_min": 3, "rain_max": 15, "months": [10, 11] },
+    "harvesting": { "temp_min": 15, "temp_max": 25, "rain_min": 0, "rain_max": 5, "months": [2, 3] }
+  },
+  "gram": {
+    "sowing": { "temp_min": 15, "temp_max": 25, "rain_min": 5, "rain_max": 25, "months": [10, 11] },
+    "harvesting": { "temp_min": 20, "temp_max": 30, "rain_min": 0, "rain_max": 5, "months": [2, 3] }
+  },
+  "bajra": {
+    "sowing": { "temp_min": 25, "temp_max": 35, "rain_min": 15, "rain_max": 45, "months": [6, 7] },
+    "harvesting": { "temp_min": 25, "temp_max": 32, "rain_min": 0, "rain_max": 10, "months": [10, 11] }
+  },
+  "jowar": {
+    "sowing": { "temp_min": 25, "temp_max": 32, "rain_min": 10, "rain_max": 35, "months": [6, 7] },
+    "harvesting": { "temp_min": 24, "temp_max": 30, "rain_min": 0, "rain_max": 10, "months": [10, 11] }
+  },
+  "potato": {
+    "sowing": { "temp_min": 15, "temp_max": 20, "rain_min": 5, "rain_max": 15, "months": [10, 11] },
+    "harvesting": { "temp_min": 18, "temp_max": 22, "rain_min": 0, "rain_max": 5, "months": [2, 3] }
+  },
+  "tomato": {
+    "sowing": { "temp_min": 20, "temp_max": 30, "rain_min": 10, "rain_max": 30, "months": [6, 7] },
+    "harvesting": { "temp_min": 22, "temp_max": 30, "rain_min": 0, "rain_max": 10, "months": [9, 10] }
+  },
+  "onion": {
+    "sowing": { "temp_min": 20, "temp_max": 25, "rain_min": 5, "rain_max": 20, "months": [10, 11] },
+    "harvesting": { "temp_min": 20, "temp_max": 28, "rain_min": 0, "rain_max": 10, "months": [3, 4] }
+  },
+  "peas": {
+    "sowing": { "temp_min": 13, "temp_max": 20, "rain_min": 10, "rain_max": 25, "months": [10, 11] },
+    "harvesting": { "temp_min": 15, "temp_max": 22, "rain_min": 0, "rain_max": 10, "months": [2, 3] }
+  },
+  "banana": {
+    "sowing": { "temp_min": 26, "temp_max": 30, "rain_min": 20, "rain_max": 100, "months": [6, 8] },
+    "harvesting": { "temp_min": 25, "temp_max": 32, "rain_min": 0, "rain_max": 10, "months": [1, 12] }
+  },
+  "mango": {
+    "sowing": { "temp_min": 24, "temp_max": 32, "rain_min": 20, "rain_max": 80, "months": [7, 8] },
+    "harvesting": { "temp_min": 26, "temp_max": 35, "rain_min": 0, "rain_max": 15, "months": [3, 7] }
+  },
+  "brinjal": {
+    "sowing": { "temp_min": 20, "temp_max": 30, "rain_min": 10, "rain_max": 30, "months": [6, 7] },
+    "harvesting": { "temp_min": 22, "temp_max": 32, "rain_min": 0, "rain_max": 10, "months": [9, 12] }
+  },
+  "cabbage": {
+    "sowing": { "temp_min": 15, "temp_max": 21, "rain_min": 10, "rain_max": 30, "months": [9, 10] },
+    "harvesting": { "temp_min": 18, "temp_max": 25, "rain_min": 0, "rain_max": 10, "months": [12, 1] }
+  },
+  "cauliflower": {
+    "sowing": { "temp_min": 15, "temp_max": 20, "rain_min": 10, "rain_max": 30, "months": [9, 10] },
+    "harvesting": { "temp_min": 18, "temp_max": 25, "rain_min": 0, "rain_max": 10, "months": [12, 1] }
+  },
+  "carrot": {
+    "sowing": { "temp_min": 16, "temp_max": 22, "rain_min": 10, "rain_max": 30, "months": [8, 11] },
+    "harvesting": { "temp_min": 18, "temp_max": 25, "rain_min": 0, "rain_max": 10, "months": [12, 3] }
+  },
+  "ladyfinger": {
+    "sowing": { "temp_min": 25, "temp_max": 35, "rain_min": 10, "rain_max": 40, "months": [6, 7] },
+    "harvesting": { "temp_min": 26, "temp_max": 35, "rain_min": 0, "rain_max": 10, "months": [8, 10] }
+  },
+  "pumpkin": {
+    "sowing": { "temp_min": 22, "temp_max": 30, "rain_min": 20, "rain_max": 60, "months": [6, 7] },
+    "harvesting": { "temp_min": 25, "temp_max": 32, "rain_min": 0, "rain_max": 10, "months": [9, 11] }
+  },
+  "spinach": {
+    "sowing": { "temp_min": 10, "temp_max": 20, "rain_min": 5, "rain_max": 20, "months": [10, 11] },
+    "harvesting": { "temp_min": 15, "temp_max": 22, "rain_min": 0, "rain_max": 5, "months": [12, 2] }
+  },
+  "millets": {
+    "sowing": { "temp_min": 20, "temp_max": 35, "rain_min": 10, "rain_max": 50, "months": [6, 7] },
+    "harvesting": { "temp_min": 25, "temp_max": 35, "rain_min": 0, "rain_max": 10, "months": [9, 10] }
+  },
+  "groundnut": {
+    "sowing": { "temp_min": 20, "temp_max": 30, "rain_min": 10, "rain_max": 40, "months": [6, 7] },
+    "harvesting": { "temp_min": 22, "temp_max": 30, "rain_min": 0, "rain_max": 10, "months": [9, 10] }
+  },
+  "chickpea": {
+    "sowing": { "temp_min": 15, "temp_max": 25, "rain_min": 5, "rain_max": 20, "months": [10, 11] },
+    "harvesting": { "temp_min": 18, "temp_max": 28, "rain_min": 0, "rain_max": 5, "months": [2, 3] }
+  },
+  "lentil": {
+    "sowing": { "temp_min": 10, "temp_max": 20, "rain_min": 5, "rain_max": 15, "months": [10, 11] },
+    "harvesting": { "temp_min": 15, "temp_max": 25, "rain_min": 0, "rain_max": 5, "months": [2, 3] }
+  },
+  "pigeonpea": {
+    "sowing": { "temp_min": 20, "temp_max": 30, "rain_min": 10, "rain_max": 40, "months": [6, 7] },
+    "harvesting": { "temp_min": 22, "temp_max": 32, "rain_min": 0, "rain_max": 10, "months": [12, 1] }
+  },
+  "blackgram": {
+    "sowing": { "temp_min": 20, "temp_max": 30, "rain_min": 10, "rain_max": 35, "months": [6, 7] },
+    "harvesting": { "temp_min": 22, "temp_max": 32, "rain_min": 0, "rain_max": 10, "months": [9, 10] }
+  },
+  "greengram": {
+    "sowing": { "temp_min": 20, "temp_max": 30, "rain_min": 10, "rain_max": 35, "months": [6, 7] },
+    "harvesting": { "temp_min": 22, "temp_max": 32, "rain_min": 0, "rain_max": 10, "months": [9, 10] }
+  }
+}
